@@ -55,7 +55,7 @@ const NftSection = () => {
                   title={"Hagon"}
                   condition={"isFire"}
                   paragraph={
-                    "The Hagon Clan is known for its members' mastery of fire-based combat techniques. Fire is the primary skill of the Hagon Clan, and its members are trained to harness its power to devastating effect on the battlefield. Through intense training and dedication, the Hagon Clan has developed unique abilities that allow them to manipulate flames in a variety of ways. Their attacks can burn through armor and shields, leaving their opponents defenseless. The Hagon Clan also has a reputation for their unwavering loyalty to their allies and their fierce determination to protect their homeland. With their fiery skills and unyielding spirit, the members of the Hagon Clan are a force to be reckoned with."
+                    "The Hagon Clan is known for its members' mastery of fire-based combat techniques. Fire is the primary skill of the Hagon Clan, and its members are trained to harness its power to devastating effect on the battlefield. Through intense training and dedication, the Hagon Clan has developed unique abilities that allow them to manipulate flames in a variety of ways. Their attacks can burn through armor and shields, leaving their opponents defenseless."
                   }
                   icon={FireIcon}
                   img={hagonImg}
