@@ -17,37 +17,38 @@ const KycBtn = ({ color, bgColor, hiddenSm, title, dotColor }) => {
           style={{ background: color }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[20px] left-[16px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[12px] left-[15px]"
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[10px]  md:top-[10px] left-[23px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[5px]  md:top-[6px] left-[21px] "
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[10px]  md:top-[10px] left-[30px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[5px]  md:top-[6px] left-[28px] "
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[10px]  md:top-[10px] left-[37px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[5px]  md:top-[6px] left-[35px] "
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[10px]  md:top-[10px] left-[44px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[5px]  md:top-[6px] left-[42px] "
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[10px]  md:top-[10px] left-[51px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[5px]  md:top-[6px] left-[49px] "
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[10px]  md:top-[10px] left-[58px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[5px]  md:top-[6px] left-[56px] "
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute top-[10px]  md:top-[10px] left-[65px] "
+          className="w-[7px] h-[7px] z-30 absolute top-[5px]  md:top-[6px] left-[63px] "
           style={{ background: dotColor }}
         ></span>
+        
         <span
           className="w-[7px] h-[7px] z-30 absolute bottom-[5px] right-[5px] "
           style={{ background: dotColor }}
@@ -61,15 +62,16 @@ const KycBtn = ({ color, bgColor, hiddenSm, title, dotColor }) => {
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute bottom-[26px] right-[10px] "
+          className="w-[7px] h-[7px] z-30 absolute bottom-[25px] right-[10px] "
           style={{ background: dotColor }}
         ></span>
         <span
-          className="w-[7px] h-[7px] z-30 absolute bottom-[33px] right-[18px] "
+          className="w-[7px] h-[7px] z-30 absolute bottom-[32px] right-[18px] "
           style={{ background: dotColor }}
         ></span>
+
         <span
-          className="w-[7px] h-[7px] hidden md:block z-30 absolute bottom-[40px] right-[26px] "
+          className="w-[7px] h-[7px] hidden md:block z-30 absolute bottom-[37px] right-[25px] "
           style={{ background: dotColor }}
         ></span>
         <span
