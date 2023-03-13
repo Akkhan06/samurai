@@ -28,7 +28,8 @@ const TabContent = ({ title, paragraph, icon, id, btn, img, condition }) => {
         </div>
         <div className="lg:max-w-[410px] sm:mt-1 md:mt-16 lg:mt-0 relative md:max-w-[335px] md:max-h-[524px] max-w-[240px] md:ml-auto mr-5 h-[300px] lg:max-h-[600px] flex justify-center  items-center">
           <div
-            className={`lg:w-[400px]  md:w-[300px]  md:h-[300px] bottom-0 md:top-0 lg:bottom-10 w-[250px] h-[250px]  lg:h-[400px]  absolute   -z-10 -mt-4  mx-auto sm:rounded-[50px] rounded-[40px] lg:rounded-[81px] ${
+            className={`lg:w-[400px]  md:w-[300px]  md:h-[300px] bottom-0 md:top-0 lg:bottom-10 w-[250px] h-[250px]  lg:h-[400px]  absolute   -z-10 -mt-4  mx-auto sm:rounded-[50px] rounded-[40px] lg:rounded-[81px] 
+            ${
               condition === "isFire" &&
               "bg-gradient-to-t from-orange-600 to-red-600"
             }
